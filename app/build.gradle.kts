@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.a_abdoun.spacexlaunchesapp"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.a_abdoun.spacexlaunchesapp"
